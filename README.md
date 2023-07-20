@@ -1,5 +1,5 @@
-### Hello fellow Dataphiles.  I’m Patrick Smith.
-I’m a long-time tech, puzzle, and data lover. I thrive on creating order from chaos and love probing data for its secrets. 
+# Hello fellow Dataphiles.  I’m Patrick Smith.
+## I’m a long-time tech, puzzle, and data lover. I thrive on creating order from chaos and love probing data for its secrets. 
 
 - 📊 My Portfolio Projects are at [Data_Analyst_Portfolio]( https://github.com/PatrickTSmith/Data_Analyst_Portfolio) 
 - 👨‍💻 My Tableau Projects are at [Patrick Smith - Tableau Public]( https://public.tableau.com/app/profile/patrick.smith1704)
